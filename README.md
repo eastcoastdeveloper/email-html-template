@@ -1,3 +1,3 @@
-# email-html-template
+# Table Based Email Template
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/eastcoastdeveloper/email-html-template)
